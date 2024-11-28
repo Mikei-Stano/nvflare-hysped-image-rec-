@@ -1,5 +1,6 @@
 # CUSTOM: ignoring csvs
 *.csv
+**/*.zip
 
 *.bundle.*
 lib/
